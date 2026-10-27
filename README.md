@@ -8,7 +8,7 @@ Esplora cartelle e sposta o rinomina file dopo conferma. Il modello può sceglie
 
 ## Installazione Windows
 
-Scarica l'archivio Windows x64, estrai l'intera cartella e avvia polarfiles-ai-v0.2.exe. Non occorre installare Python. L'eseguibile è unsigned: le policy di sicurezza potrebbero bloccarlo. Windows ARM64 può usare l'emulazione x64.
+Scarica l'archivio Windows x64, estrai l'intera cartella e avvia polarfiles-ai-v0.3.exe. Non occorre installare Python. L'eseguibile è unsigned: le policy di sicurezza potrebbero bloccarlo. Windows ARM64 può usare l'emulazione x64.
 
 ## Configurazione
 
@@ -21,3 +21,5 @@ Sono supportati fino a 5 passaggi e non è possibile usare modelli incapaci di p
 ## Licenza
 
 MIT, vedi LICENSE. PolarLabs | Space Services SRLS.
+
+**Avvertenza Windows:** la build v0.3 e stata bloccata dalla policy applicativa del PC di collaudo; il sorgente funziona. Non disattivare controlli di sicurezza per eseguirla.
